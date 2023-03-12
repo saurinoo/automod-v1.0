@@ -2,6 +2,7 @@ const { Schema, model } = require("mongoose");
 const automodSchema = new Schema({
     guildId: String,
     channelId: String,
+    timeout: { type: String, default: '10m' },
     plugins: {
         AntiUnverifiedBot: { type: Boolean, default: true },
         AntiSwear: { type: Boolean, default: true },
