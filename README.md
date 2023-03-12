@@ -1,7 +1,7 @@
 # automod-v1.0 #
 Autmod system
 
-<img width="1440" alt="Screenshot 2023-03-11 at 9 05 05 PM" src="https://user-images.githubusercontent.com/100185728/224493397-2d60205d-964a-4064-8b01-380439a8962d.png">
+<img width="1440" alt="Screenshot 2023-03-11 at 9 05 05 PM" src="https://user-images.githubusercontent.com/61811183/224539558-06068471-037f-4ff7-a885-1020402be09b.png">
 
 ## Features ##
 
